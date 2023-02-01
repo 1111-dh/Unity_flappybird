@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+/Users/ghjnm1289/Documents/github/Unity_flappybird/FlappyClone filter=lfs diff=lfs merge=lfs -text
+lld filter=lfs diff=lfs merge=lfs -text
+*.lld filter=lfs diff=lfs merge=lfs -text
